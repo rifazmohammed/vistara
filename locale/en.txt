@@ -1,0 +1,73 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Vistara Resort, Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_4F414571_5182_3902_41CF_BCAE4A286E1D.label = Vistara
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_0.label = DJI_0004
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_1.label = DJI_0027
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_10.label = IMG_1387
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_11.label = IMG_1451
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_2.label = DJI_0077
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_3.label = DJI_0224
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_4.label = DSC00560
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_5.label = DSC00610
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_6.label = DSC00617
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_7.label = DSC00631
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_8.label = DSC00688 crp
+album_4F414571_5182_3902_41CF_BCAE4A286E1D_9.label = IMG_1272
+panorama_4040784F_519E_171F_41CC_1959FF94FDAC.label = Game Room
+panorama_4050A361_5223_6CF6_41CE_718616435D1C.label = Royal Villa Lake View - Washroom
+panorama_40941B25_5186_0903_41D0_558D2CD6E94D.label = Backyard Lawn
+panorama_44290543_5227_543A_41D0_36E6F02C295F.label = Vistara Suite Lakeview
+panorama_44290FF3_5227_73DA_41AD_1C599FC22683.label = Deluxe Lake View
+panorama_44292322_5227_6C7A_41C2_B8470FCD88C6.label = Vistara Suite Lakeview
+panorama_4429680C_5224_BC4E_41CB_EAFE8E00071B.label = Vistara Suite Lakeview
+panorama_44297B17_5224_DC5A_41D3_0173C3581A97.label = Vistara Suite Lakeview
+panorama_4429C059_5224_ECD6_41C5_C5B0F3B5AC49.label = Vistara Suite Lakeview
+panorama_442E0CD8_5227_55D6_41C4_B0668CD7574E.label = Deluxe Lake View - Balcony
+panorama_442E5AA7_5227_BC7A_41B5_BFD02BC4F85B.label = Deluxe Lake View - Washroom
+panorama_442EEE15_5224_F45E_41C3_CE5684A6A685.label = Vistara Suite Lakeview
+panorama_4453F28D_5224_AC49_41CB_6C2AC1B2A3F5.label = Vistara Suite Lakeview - Washroom
+panorama_4F55A502_5182_7901_41BC_601B78B643CF.label = Swimming Pool
+panorama_4FEE9292_5182_1B01_41BB_EA91B8B90B5A.label = Backyard Lawn
+panorama_4FEEA3B7_5182_190F_41C2_00C39E4CD14B.label = Swimming Pool
+panorama_4FEEF301_5182_3903_41D3_5D34289E098B.label = Backyard Lawn
+panorama_5A22BA8B_517C_2DB1_4180_5C8F5419172C.label = Restaurant
+panorama_5A6E6DF1_517C_2750_41C2_82B01384599B.label = Vistara Resort
+panorama_5B3E0787_517C_63B1_41BB_3C58E5339703.label = Restaurant
+panorama_5B3E4BAC_517C_23F7_41C7_1563D9D5CB5C.label = Reception & Lobby
+panorama_5B3E58D1_517D_ED51_41C4_88A7D97FC31D.label = Reception & Lobby
+panorama_5B3E5EB4_517C_25D7_41C9_5970299BA90E.label = Restaurant
+panorama_5B3E918F_517C_1FB1_41AB_DE4B02533AEB.label = Restaurant
+panorama_5B3EC48A_517C_65B3_41B8_8E63DB639299.label = Restaurant
+panorama_745D0911_5186_0903_41C5_97E99C72C250.label = Royal Villa Lake View
+panorama_745D1206_5186_FB01_41C8_6BC6ABB0F3F3.label = Royal Villa Lake View
+panorama_745D1DB0_5186_0901_41CD_9172A556154F.label = Royal Villa Lake View sitout
+panorama_745D33F4_5186_1901_41A2_90812D155B92.label = Royal Villa Lake View
+panorama_745DCC39_5186_0F03_41CC_6D3887DE7108.label = Royal Villa Lake View backyard
+panorama_745DDB02_5186_0901_418E_33ED8A4D7B2D.label = Royal Villa Lake View
+panorama_745DE6CF_5186_3B1F_4197_FC4FD6BE9C52.label = Royal Villa Lake View
+panorama_7774A13A_5182_1901_41B9_2A02C74DC207.label = Royal Villa Lake View
+panorama_7B874C2F_5186_0F1F_41C9_502B1652BD32.label = Royal Villa Lake View
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://vistararesort.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://vistararesort.com
